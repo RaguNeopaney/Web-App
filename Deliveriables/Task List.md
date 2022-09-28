@@ -1,0 +1,22 @@
+**Task List** 
+- Refine what the product should look like: Michael Reynolds 
+- Design the UI model’s looks: Michael Reynolds 
+- Design how each part should interact with one another: Michael Reynolds 
+- Develop Leaderboard functionality: Michael Reynolds 
+- Specify functionality of the product and communicate that functionality with group members: Michael Reynolds 
+- Research tech stack appropriate for our project: Ragu Neopaney 
+- Develop back-end for saving leaderboard score to DB: Ragu Neopaney 
+- Develop UI for Game: Khoa Do 
+- Refine user experience with webpage: Khoa Do 
+- Provide documentation and specifications for user interface: Khoa Do 
+- UI Testing from user point of view: Khoa Do 
+- Research markup languages to develop webpage: Khoa Do 
+- Code refinement and Refactoring (Code Review): Ragu Neopaney 
+- Validates functional requirements: Sujay Dammoju 
+- Validate routing of back-end to front-end functionality: Sujay Dammoju 
+- Document potential bugs: Sujay Dammoju 
+- Research potential cloud possibilities for leaderboard: Sujay Dammoju 
+- Specify certain tasks to each member during each meeting: Sujay Dammoju 
+- Develop back-end game play functionality: Sujay Dammoju 
+- Obtain requirement from stakeholders' point of view: Ragu Neopaney 
+- Design Database side for storing any user data: Ragu Neopaney
