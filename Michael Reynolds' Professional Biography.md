@@ -20,7 +20,7 @@ Product Technician CADTalk, Kentucky:(2 semesters)
 - Used communication skills to assist team members
 
 Software Developer CADTalk, Kentucky: (1 semester)
-- Fixed defects that occured in product
+- Fixed defects that occurred in product
 - Created fuctionality that allowed users to access new info from target ERP software
 
 **Areas of Interest**
