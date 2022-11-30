@@ -1,6 +1,6 @@
 1. [Team names](Project&#32;Documents/Description.md) and [Project Abstract](Project&#32;Documents/Project_Abstract.md) 
 2. [Project Description](Project&#32;Documents/Description.md) 
-3. [User Stories](Project&#32;Documents/User&#32;Stories.md) and [Design Diagrams](Project&#32;Documents/Design_Diagrams.pdf) 
+3. [User Stories](Project&#32;Documents/User&#32;Stories.md) and [Design Diagrams](Project&#32;Documents/Design_Diagram.pdf) 
 4. [Task List](Project&#32;Documents/Task&#32;List.md) 
 5. [Timeline](Project&#32;Documents/Timeline.md) 
 6. [Effort Matrix](Project&#32;Documents/EffortMatrix.md) 
