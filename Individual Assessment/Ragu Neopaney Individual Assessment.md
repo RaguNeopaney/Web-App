@@ -1,5 +1,5 @@
 ### Ragu's Individual Capstone Assessment
-    Most of professional experience I have so far has something to with web. Ever companies are using website and web page to 
+Most of professional experience I have so far has something to with web. Ever companies are using website and web page to 
 interact with their customers. My team has decided on creating a web application for our senior design project. We will be 
 re-creating retro console game call voltorbflip. My understanding is this project might be little tough on team as we will be 
 learning a lot of JavaScript as we build. Our academic courses don’t really prepare us to build these types of apps, but we 
