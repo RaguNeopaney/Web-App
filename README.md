@@ -1,5 +1,5 @@
-1. [Team names] (description.md) and [Project Abstract] (Project&#32;Documents/Project Abstract.md) 
-2. [Project Description] (Project&#32;Document/description.md) 
+1. [Team names](description.md) and [Project Abstract] (Project&#32;Documents/Project Abstract.md) 
+2. [Project Description](Project&#32;Document/description.md) 
 3. [User Stories] (deliverables/User Stories.md) and [Design Diagrams] (Project&#32;Documents/Design&#32;Diagrams.pdf) 
 4. [Task List] (Task&#32;List.md) 
 5. [Timeline] (Project&#32;Documents/Timeline.md) 
