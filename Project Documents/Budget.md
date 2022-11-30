@@ -1,3 +1,4 @@
+### Budget
 Hosting our app on cloud will cost some money. So far, there has not been any money required to complete our task but as it has come up in our planning session, we plan to host our app on Azure cloud platform. Here is the breakdown of resources we will be using and the budget forecast for the future. 
 
 We are planning on hosting our web app under a basic dedicated environment for dev/test with pay as you go service. Here are two possibilities we will choose one that will make sense the most for our project: 
