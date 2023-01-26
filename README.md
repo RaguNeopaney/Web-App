@@ -8,5 +8,5 @@
 8. [Self-Assessment Essays](Individual&#32;Assessment) 
 9. [Professional Biographies](Professional&#32;Biography) 
 10. [Budget](Project&#32;Documents/Budget.md)
-11. [Test Plan](Project&#32;Documents/Test Plan.pdf)
+11. [Test Plan](Project&#32;Documents/Test&#32;Plan.pdf)
 12. [Appendix](Project&#32;Documents/Appendix.md) 
