@@ -9,4 +9,5 @@
 9. [Professional Biographies](Professional&#32;Biography) 
 10. [Budget](Project&#32;Documents/Budget.md)
 11. [Test Plan](Project&#32;Documents/Test&#32;Plan.pdf)
-12. [Appendix](Project&#32;Documents/Appendix.md) 
+12. [User Guides](https://raguneopaney.github.io/userguides/)
+13. [Appendix](Project&#32;Documents/Appendix.md) 
