@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Voltorb_Flip_Web_App.Models;
+
 namespace Voltorb_Flip_Web_App
 {
     public class Program
@@ -8,6 +11,8 @@ namespace Voltorb_Flip_Web_App
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<VoltorbflipDBContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 
