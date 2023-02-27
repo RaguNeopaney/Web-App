@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Voltorb_Flip_Web_App.Models
@@ -6,10 +7,11 @@ namespace Voltorb_Flip_Web_App.Models
     [Table("HighScoretbl")]
     public class HighScoreboard
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
 
         [Column("HighScore")]
-        public long HighScore { get; set; }
+        public int HighScore { get; set; }
     }
 }

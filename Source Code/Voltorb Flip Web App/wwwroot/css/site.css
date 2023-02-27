@@ -1,18 +1,102 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    background-color: #e0d8cc;
+    color: black;
+    font-family: Courier, monospace;
+    line-height: inherit;
 }
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+table {
+    /*    box-sizing: unset;*/
+    -webkit-box-sizing: unset;
+    -moz-box-sizing: unset;
+    -ms-box-sizing: unset;
+    box-sizing: unset;
+}
+
+*, ::after, ::before {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -ms-box-sizing: content-box;
+    box-sizing: content-box;
+    /*    box-sizing: content-box;*/
+}
+
+body.darkbg a {
+    color: #CC0;
+}
+
+div.gameboard {
+    /* background-color:#808d77; */
+    background-image: url(../Img/backgroundimg.png);
+    border: 2px #333 solid;
+    float: left;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+body.darkbg div.gameboard {
+    background-color: #808d77;
+    transition: background-color 0.3s ease;
+}
+
+div.squareboard {
+    border: 1px #000 solid;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    padding: 3px;
+    font-size: 13px;
+    color: #FEFF8F;
+    /*background-color: #2e511a;*/
+    background-image: url(../Img/squareboxbackground.png);
+    background-repeat:no-repeat;
+
+    cursor: pointer;
+    font-family: monospace;
+}
+
+body.darkbg div.squareboard {
+    background-color: #449922;
+    transition: background-color 0.3s ease;
+}
+
+div.opensquareboard {
+    border: 1px #DFCD7D solid;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    padding: 3px;
+    font-size: 48px;
+    color: #E00;
+    background-color: #f7f8ca;
+    cursor: default;
+}
+
+div.hintboard {
+    border: 1px #000 solid;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    text-align: right;
+    padding: 2px;
+    font-size: 25px;
+    /* background-color:rgb(219, 244, 219); */
+    background-image: url(../Img/tilebackground.png);
+    cursor: default;
+}
+
+    div.hintboard em {
+        color: rgb(23, 101, 23);
+        font-style: normal;
+    }
+
+    div.hintboard strong {
+        color: #E00;
+    }
