@@ -281,6 +281,10 @@ function gameOver() {
 }
 
 function youWin() {
+    if (wonScore > highestScore) {
+        highscoreObj = { highscore: wonScore }
+        postHighestScore();
+    }
     // Well done!
     totalScore += wonScore;
     wonScore = 0;
@@ -294,10 +298,6 @@ function youWin() {
 
     document.getElementById('ingame').style.display = 'none';
     document.getElementById('youwin').style.display = '';
-    if (wonScore > highestScore) {
-        highscoreObj = { highscore: wonScore }
-        postHighestScore();
-    }
     disableBoard(); // Stop it now, you're already a winner.
 }
 
