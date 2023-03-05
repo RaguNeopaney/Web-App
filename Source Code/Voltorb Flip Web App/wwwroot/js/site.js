@@ -10,14 +10,14 @@ var level = 1; // Level number (max = 7)
 var grid = 0; // Will be an array when game will be initialized
 var x = -1; // Current cursor position
 var y = -1;
-let highestScore;
+let highestScore = 0;
 let highscoreObj;
 
 var debugmode = 0; // This will display the answers.
 
 var borderOver = '#DFCD7D';
 var borderClick = '#FEFF8F';
-
+getHighestScore();
 function loadGame() {
     // Set limits depending on the level
 
@@ -351,16 +351,18 @@ function toggleDarkBG() {
         document.body.className = '';
     }
 }
-
+function callback(response) {
+    highestScore = response.value;
+}
 function getHighestScore() {
     var geturl = document.getElementById('GetUrl').value;
     $.ajax({
         type: "GET",
         url: geturl,
         dataType: "json",
-        async: false,
+        /*        async: false,*/
         success: function (result) {
-            highestScore = result.value;
+            callback(result);
         },
         error: function (req, status, error) {
             console.log(status)
