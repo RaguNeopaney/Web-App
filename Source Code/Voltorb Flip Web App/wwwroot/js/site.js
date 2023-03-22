@@ -19,6 +19,7 @@ var borderOver = '#DFCD7D';
 var borderClick = '#FEFF8F';
 getHighestScore();
 function loadGame() {
+    getHighestScore();
     // Set limits depending on the level
 
     var minScore = 12 * Math.pow(2, level);
