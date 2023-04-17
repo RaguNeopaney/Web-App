@@ -7,6 +7,8 @@
 7. [PPT Slideshow](Project&#32;Documents/Tangerines.pptx) 
 7. [Summery of Expenses](Project&#32;Documents/Summary_of_Expenses.pdf) 
 7. [User Interface Specification](Project&#32;Documents/User_Interface_Specification.pdf) 
+7. [Poster](Project&#32;Documents/poster.pdf) 
+7. [Summery of Hours and Justification](Summery&#32;of&#32;Hours&#32;and&#32;Justification) 
 8. [Self-Assessment Essays](Individual&#32;Assessment) 
 9. [Professional Biographies](Professional&#32;Biography) 
 10. [Budget](Project&#32;Documents/Budget.md)
