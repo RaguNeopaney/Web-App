@@ -6,6 +6,7 @@
 6. [Effort Matrix](Project&#32;Documents/EffortMatrix.md) 
 7. [PPT Slideshow](Project&#32;Documents/Tangerines.pptx) 
 7. [Summery of Expenses](Project&#32;Documents/Summary_of_Expenses.pdf) 
+7. [User Interface Specification](Project&#32;Documents/User_Interface_Specification.pdf) 
 8. [Self-Assessment Essays](Individual&#32;Assessment) 
 9. [Professional Biographies](Professional&#32;Biography) 
 10. [Budget](Project&#32;Documents/Budget.md)
