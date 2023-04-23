@@ -8,6 +8,8 @@
 7. [Spring PPT Slideshow](Project&#32;Documents/Spring_2023_Final_Presentation.pptx) 
 7. [Summery of Expenses](Project&#32;Documents/Summary_of_Expenses.pdf) 
 7. [User Interface Specification](Project&#32;Documents/User_Interface_Specification.pdf) 
+7. [Design Process And Testing](Project&#32;Documents/Design_Process_And_Testing.pdf) 
+7. [Technology Stack Explained](Project&#32;Documents/Technology_Used.pdf) 
 7. [Poster](Project&#32;Documents/poster.pdf) 
 7. [Summery of Hours and Justification](Summery&#32;of&#32;Hours&#32;and&#32;Justification) 
 8. [Self-Assessment Essays](Individual&#32;Assessment) 
